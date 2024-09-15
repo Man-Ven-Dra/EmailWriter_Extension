@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "Email Writer",
+    "icons": {
+        "128": "email.png"
+    },
+    "action": {
+        "default_popup":"index.html"
+    },
+    "permissions": [
+        "activeTab"
+    ],
+    "host_permissions": [
+        "http://*/*",
+        "https://*/*"
+    ]
+}

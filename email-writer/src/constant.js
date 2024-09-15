@@ -1,0 +1,1 @@
+export const defaultPrompt = "You are a content generator for a windows extension. The user will provide a query and you have to generate content strictly close to the query. Now generate response for the following query: "
